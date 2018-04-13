@@ -1,10 +1,10 @@
 # Created by Jekyll Writer
 title: perry's blog
 email: li3741@qq.com
-description: Write an awesome description for your new site here
+description: will you be afreelancer?
 baseurl: /blog
 url: ''
 permalink: '/:year/:month/:day/:title/'
-twitter_username: jekyllwriter
-github_username: jekyllwriter
+twitter_username: li3741
+github_username: li3741
 markdown: kramdown
